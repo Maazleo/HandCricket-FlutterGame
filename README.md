@@ -9,10 +9,6 @@ A modern, feature-rich hand cricket game built with Flutter. Play against the co
 
 ## 📸 LiveDemo
 
-> _Add screenshots of your app here!_
-> 
-> ![Home Screen](docs/screenshots/home.png)
-> ![Game Screen](docs/screenshots/game.png)
 
 ---
 
