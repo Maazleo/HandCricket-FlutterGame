@@ -7,7 +7,8 @@ A modern, feature-rich hand cricket game built with Flutter. Play against the co
 ![Flutter](https://img.shields.io/badge/Flutter-3.9.0-blue?logo=flutter)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web%20%7C%20Windows%20%7C%20macOS%20%7C%20Linux-blue)
 
-## 📸 LiveDemo
+### 🔗 Live Demo:
+[Play Here ](https://handcricketgameheadstails.netlify.app)
 
 
 ---
